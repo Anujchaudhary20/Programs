@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2539ca06-17dd-4be2-b23d-4c80d0a538c7" name="Changes" comment="second commit">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Anuj Kumar Singh &lt;anuj04004@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Anujchaudhary20"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Anujchaudhary20/Programs.git",
+    "accountId": "94b330bd-5ee2-4db6-9932-9eeb52c1c2b9"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2npE4G4sd2yzZwIlZvCgFu5zyLR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.CountandSumDigit.executor": "Debug",
+    "Application.Demo.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.MenuRunner.executor": "Run",
+    "Application.PrimeNo.executor": "Run",
+    "Application.ReverseStr.executor": "Run",
+    "Application.Solution.executor": "Debug",
+    "Application.Solution1.executor": "Debug",
+    "Application.Solution2.executor": "Run",
+    "Application.SwitchDemo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/anujsingh/IdeaProjects/Programs/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="QodanaCIConfigService">
+    <option name="ciType" value="JENKINS" />
+    <option name="path" value="$PROJECT_DIR$/Jenkinsfile" />
+  </component>
+  <component name="QodanaHighlightedReportService">
+    <option name="localReportPersistedInfo">
+      <LocalReportPersistedInfo>
+        <option name="path" value="$PROJECT_DIR$/qodana.sarif.json" />
+        <option name="reportGuid" value="e85dcfd4-3a90-4924-8355-e9733355ddaa" />
+        <option name="reportName" value="Programs/qodana/2024-11-03" />
+      </LocalReportPersistedInfo>
+    </option>
+  </component>
+  <component name="QodanaIsSelectedPersistenceService">
+    <option name="selectedOrLoading" value="true" />
+  </component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="/private/var/folders/nh/ts_cjlvx001g66w5gjsdgmqm0000gn/T/qodana_output/qodana.sarif.json" reportGuid="e85dcfd4-3a90-4924-8355-e9733355ddaa" reportId="Programs/qodana/2024-11-03" />
+      <ReportDescription path="$PROJECT_DIR$/qodana.sarif.json" reportGuid="e85dcfd4-3a90-4924-8355-e9733355ddaa" reportId="Programs/qodana/2024-11-03" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CountandSumDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.CountandSumDigit" />
+      <module name="Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CountandSumDigit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2539ca06-17dd-4be2-b23d-4c80d0a538c7" name="Changes" comment="" />
+      <created>1729661424718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729661424718</updated>
+    </task>
+    <task id="LOCAL-00001" summary="p1">
+      <option name="closed" value="true" />
+      <created>1730651822014</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730651822014</updated>
+    </task>
+    <task id="LOCAL-00002" summary="P1 new code">
+      <option name="closed" value="true" />
+      <created>1731692722028</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731692722029</updated>
+    </task>
+    <task id="LOCAL-00003" summary="seconf commit">
+      <option name="closed" value="true" />
+      <created>1731693033163</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731693033163</updated>
+    </task>
+    <task id="LOCAL-00004" summary="seconf commit">
+      <option name="closed" value="true" />
+      <created>1731693036243</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731693036243</updated>
+    </task>
+    <task id="LOCAL-00005" summary="seconf commit">
+      <option name="closed" value="true" />
+      <created>1731693045128</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731693045129</updated>
+    </task>
+    <task id="LOCAL-00006" summary="seconf commit">
+      <option name="closed" value="true" />
+      <created>1731693065584</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731693065584</updated>
+    </task>
+    <task id="LOCAL-00007" summary="second commit">
+      <option name="closed" value="true" />
+      <created>1731738708918</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731738708918</updated>
+    </task>
+    <task id="LOCAL-00008" summary="second commit">
+      <option name="closed" value="true" />
+      <created>1731738761793</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731738761793</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="p1" />
+    <MESSAGE value="P1 new code" />
+    <MESSAGE value="seconf commit" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Practice/CountandSumDigit.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Practice/CountandSumDigit.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
